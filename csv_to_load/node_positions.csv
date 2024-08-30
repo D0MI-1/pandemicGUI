@@ -1,0 +1,49 @@
+City,X,Y
+Essen,120,80
+St Petersburg,140,80
+Milan,140,60
+Paris,120,60
+London,100,60
+Madrid,100,40
+New York,80,60
+Toronto / Montreal,60,60
+Washington,80,40
+Atlanta,60,40
+Chicago,40,40
+Los Angeles,20,20
+San Francisco,20,40
+Santiago,40,0
+Lima,60,0
+Mexico City,60,20
+Miami,80,20
+Bogota,80,0
+Sao Paulo,100,20
+Buenos Aires,100,0
+Lagos,120,20
+Kinshasa,120,0
+Khartoum,140,20
+Johannesburg,140,0
+Algiers,140,40
+Cairo,160,40
+Istanbul,160,60
+Moscow,180,80
+Baghdad,180,60
+Riyadh,180,40
+Tehran,200,60
+Karachi,200,40
+Delhi,220,40
+Mumbai,220,20
+Kolkata,240,40
+Chennai,240,20
+Seoul,240,80
+Tokyo,260,80
+Osaka,280,80
+Beijing,240,60
+Shanghai,260,60
+Taipei,280,60
+Hong Kong,280,40
+Manila,300,40
+Bangkok,260,20
+Jakarta,260,0
+Ho Chi Minh City,280,20
+Sydney,300,0

@@ -1,0 +1,95 @@
+Source,Target
+Essen,St Petersburg
+Essen,London
+Essen,Paris
+Essen,Milan
+San Francisco,Manila
+San Francisco,Tokyo
+San Francisco,Chicago
+San Francisco,Los Angeles
+Los Angeles,Chicago
+Los Angeles,Mexico City
+Los Angeles,Sydney
+Chicago,Toronto / Montreal
+Chicago,Atlanta
+Chicago,Mexico City
+Santiago,Lima
+Toronto / Montreal,New York
+Toronto / Montreal,Washington
+Atlanta,Washington
+Atlanta,Miami
+Mexico City,Miami
+Mexico City,Bogota
+Lima,Mexico City
+Lima,Bogota
+New York,London
+New York,Madrid
+New York,Washington
+Washington,Miami
+Miami,Bogota
+Bogota,Sao Paulo
+Bogota,Buenos Aires
+London,Essen
+London,Paris
+London,Madrid
+Madrid,Paris
+Madrid,Algiers
+Madrid,Sao Paulo
+Sao Paulo,Lagos
+Sao Paulo,Buenos Aires
+Paris,Milan
+Paris,Algiers
+Lagos,Khartoum
+Lagos,Kinshasa
+Kinshasa,Khartoum
+Kinshasa,Johannesburg
+St Petersburg,Moscow
+St Petersburg,Istanbul
+Milan,Istanbul
+Algiers,Istanbul
+Algiers,Cairo
+Khartoum,Johannesburg
+Khartoum,Cairo
+Istanbul,Moscow
+Istanbul,Baghdad
+Istanbul,Cairo
+Cairo,Baghdad
+Cairo,Riyadh
+Moscow,Tehran
+Baghdad,Tehran
+Baghdad,Karachi
+Baghdad,Riyadh
+Riyadh,Karachi
+Tehran,Karachi
+Tehran,Delhi
+Karachi,Delhi
+Karachi,Mumbai
+Delhi,Kolkata
+Delhi,Chennai
+Delhi,Mumbai
+Mumbai,Chennai
+Seoul,Tokyo
+Seoul,Shanghai
+Seoul,Beijing
+Beijing,Shanghai
+Kolkata,Hong Kong
+Kolkata,Bangkok
+Kolkata,Chennai
+Chennai,Bangkok
+Chennai,Jakarta
+Tokyo,Osaka
+Tokyo,Shanghai
+Shanghai,Taipei
+Shanghai,Hong Kong
+Bangkok,Hong Kong
+Bangkok,Ho Chi Minh City
+Bangkok,Jakarta
+Jakarta,Ho Chi Minh City
+Jakarta,Sydney
+Osaka,Taipei
+Taipei,Manila
+Taipei,Hong Kong
+Hong Kong,Manila
+Hong Kong,Ho Chi Minh City
+Ho Chi Minh City,Manila
+Manila,Sydney
