@@ -17,7 +17,7 @@ This will launch the application and allow you to interact with the functional p
 
 Screenshots
 
-![Application Screenshot](screenshots/Screenshot 2024-08-30 120711.png)
+![Application Screenshot](screenshots/Screenshot2024-08-30-120711.png)
 
 For a more advanced pandemic model, please refer to the separate "pandemic" repository, which contains improved notebooks for simulation.
 
@@ -26,4 +26,4 @@ This project is currently in an incomplete state. For those interested in the pa
 
 Links
 
-[Link to the improved pandemic repository] ([Please insert the actual link here](https://github.com/D0MI-1/Pandemic))
+[Link to the improved pandemic repository] ([Pandemic with SI, SIS, SIR models](https://github.com/D0MI-1/Pandemic))
